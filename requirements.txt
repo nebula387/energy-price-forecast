@@ -1,0 +1,15 @@
+# данные
+entsoe-py>=0.6
+requests>=2.31
+yfinance>=0.2
+python-dotenv>=1.0
+pandas>=2.0
+pyarrow>=14
+holidays>=0.50
+# анализ и модели
+scikit-learn>=1.4
+lightgbm>=4.0
+matplotlib>=3.8
+ipykernel>=6.0
+nbconvert>=7.0
+pytest>=8.0
