@@ -39,6 +39,7 @@ python -m src.build_dataset
 python -m pytest -q                 # тесты на утечку будущего
 python -m src.backtest              # ~4 минуты
 python -m src.battery
+python -m src.dm_test              # тест Диболда–Мариано: значимость разницы моделей
 ```
 
 Ноутбуки пересчитать целиком (из папки `notebooks`, с активированным `.venv`):
